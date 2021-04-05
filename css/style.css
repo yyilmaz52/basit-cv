@@ -1,0 +1,97 @@
+.info{
+  text-align: center;
+  background-color: #0f4c75;
+  color: #fff;
+  padding-bottom: 3%;
+}
+.info hr{
+  border-color: #fff;
+  border-width: 5px;
+
+}
+.fotom{
+  margin-top: 5%;
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+  margin-bottom: 5%;
+}
+.info h2{
+  text-align: center;
+  margin-top: 10px;
+}
+.info h3{
+
+  margin-left: 3%;
+}
+.display{
+  display: inline-block;
+  margin-left: 1%;
+}
+.container {
+  width: 100%; /* Full width */
+  background-color: #52616b; /* Grey background */
+  padding: 0;
+}
+.info-lg{
+  text-align: left;
+}
+.info-lg h3{
+  margin: 0;
+}
+.java {
+  width: 90%;
+  height:1.3rem;
+  background-color: #f0f5f9;
+}
+.html{
+  width: 50%;
+  height:1.3rem;
+  background-color: #f0f5f9;
+}
+.script{
+  width: 60%;
+  height:1.3rem;
+  background-color: #f0f5f9;
+}
+
+.details hr{
+  margin-top: 0;
+  margin-left: 0;
+  border-color: #000;
+  border-width: 5px;
+  width: 70%;
+  text-align: left;
+}
+.details p{
+  color:grey;
+}
+.details li{
+
+  font-family: 'Montserrat', sans-serif;
+}
+#skills h3{
+  text-align: left;
+  margin:3% 0;
+
+}
+#interests .col-lg-2{
+  margin: 0 3%;
+}
+#head {
+  margin: 5% 0 0 5%;
+}
+
+#head h1{
+  font-family: 'Rubik', sans-serif;
+  font-size: 3.5rem;
+}
+#education {
+  margin: 5% 0 0 5%;
+}
+#workex {
+  margin: 5% 0 0 5%;
+}
+#personelpro {
+  margin: 5% 0 3% 5%;
+}
